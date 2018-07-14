@@ -1,0 +1,5 @@
+applications:
+- name: service-broker-unlocker
+  mem: 64M
+  disk: 512M
+  random-route: true
